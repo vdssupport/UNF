@@ -19,7 +19,7 @@ html {
 }
 
 header.header-main {
-  background-color: #{{Color_1}};
+  background-color: #0e4d8c;
   height:10.5em;
 }
 
@@ -31,7 +31,7 @@ header.header-main {
 }
 
 header.header-page {
-  background-color:#0e4d8c;
+  background-color:#888b8d;
 }
 
 .header-page .tabs li a {
